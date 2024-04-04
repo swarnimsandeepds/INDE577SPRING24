@@ -24,3 +24,4 @@ PCA
 K Means Clustering
 
 Student Contact Information:
+Swarnim Sandeep
