@@ -5,7 +5,7 @@
 Ensemble learning is a sophisticated machine learning technique that combines many models to improve prediction accuracy and durability. It is based on the idea that combining the predictions of multiple models can often produce better outcomes than depending just on one model.
 
 ## Visual Overview of Ensemble Learning
-![Ensemble Learning Models](https://intuitivetutorial.com/wp-content/uploads/2023/05/ensemble_models.png)
+![Ensemble Learning Models](https://www.v7labs.com/blog/ensemble-learning)
 
 ## Detailed Explanation of Ensemble Learning
 The basic premise behind ensemble learning is that merging different models can assist to reduce individual model shortcomings, resulting in more accurate and trustworthy predictions.
