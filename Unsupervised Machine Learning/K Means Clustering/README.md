@@ -1,5 +1,5 @@
 
-# K-Means Clustering Project Overview
+# K-Means Clustering
 
 Introduction to K-Means Clustering
 K-Means Clustering is a popular unsupervised learning algorithm used in data analysis. It aims to partition a dataset into K distinct, non-overlapping subsets (clusters) based on their features. The algorithm assigns each data point to the cluster whose centroid is nearest.
