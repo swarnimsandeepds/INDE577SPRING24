@@ -5,7 +5,7 @@
 Supervised machine learning involves training a model on labeled data to learn a mapping from inputs to outputs. By iteratively adjusting its parameters based on the training data, the model aims to make accurate predictions on new, unseen data.
 
 ## Visual Overview of Supervised Machine Learning
-![Supervised Machine Learning] (https://www.kdnuggets.com/wp-content/uploads/mehreen_understanding_supervised_learning_theory_overview_6.png)
+![Supervised Machine Learning] (https://github.com/swarnimsandeepds/INDE577SPRING24/blob/688806b1236d5b282a3b3c8eb16c69e26db29b5d/supervised-learning.gif)
 
 ## Detailed Explanation of Supervised Machine Learning
 In Supervised Learning, an algorithm learns from labeled training data, helps you predict outcomes for unforeseen data. The two main types of supervised learning are classification and regression.
