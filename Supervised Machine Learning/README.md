@@ -9,9 +9,9 @@ Supervised machine learning involves training a model on labeled data to learn a
 <img src="supervised-learning.gif" width="600"/>
 
 ## Detailed Explanation of Supervised Machine Learning
-In Supervised Learning, an algorithm learns from labeled training data, helps you predict outcomes for unforeseen data. The two main types of supervised learning are classification and regression.
+In Supervised Learning, an algorithm learns from labeled training data to help you predict outcomes for unlabeled data. There are two primary types of supervised learning: classification and regression.
 
-Classification algorithms are used when the output is categorical and the objective is to assign inputs to predetermined classes, whereas regression methods are used when the output is continuous and the goal is to predict a numerical value using input data. Both types of algorithms are useful tools in supervised machine learning and are employed in a variety of real-world scenarios.
+Classification algorithms are used when the output is categorical and the goal is to assign inputs to predefined classes, whereas regression methods are used when the output is continuous and the goal is to predict a numerical value using input data. Both types of algorithms are important in supervised machine learning and are used in a wide range of real-world applications.
 ### Key Concepts
 - **Classification**: Predicts discrete responses.
 - **Regression**: Predicts continuous responses.
