@@ -2,10 +2,10 @@
 # Perceptron Project Overview
 
 ## Introduction to Perceptron
-The perceptron is a fundamental building block in neural networks and machine learning. It is a type of linear classifier that uses a set of weights to make predictions based on input features. Developed by Frank Rosenblatt, it represents the simplest form of a neural network used for binary classification tasks.
+The perceptron is a basic building component for neural networks and machine learning. It is a linear classifier that makes predictions using a set of weights based on input features. Frank Rosenblatt created the basic type of a neural network for binary classification tasks.
 
 ## Visual Representation of Perceptron
-![Perceptron Learning Rule](https://www.simplilearn.com/ice9/free_resources_article_thumb/Perceptron/symbolic-representation-of-perceptron-learning-rule_5.jpg)
+<img src="/Supervised%20Machine%20Learning/images/perceptron.png" width="600">
 
 ## Detailed Explanation of Perceptron
 The perceptron model works as follows:
