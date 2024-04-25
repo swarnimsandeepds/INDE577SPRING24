@@ -5,7 +5,7 @@
 A decision tree is a popular supervised learning method that may be applied to both classification and regression applications. It's a versatile and easy-to-use approach that works by recursively partitioning the dataset into subsets based on the most significant attribute, resulting in a decision tree.
 
 ## Visual Overview of Decision Tree
-![Decision Tree Example](https://images.datacamp.com/image/upload/v1677504957/decision_tree_for_heart_attack_prevention_2140bd762d.png)
+<img src="/Supervised%20Machine%20Learning/images/decision-tree.jpg" width="400">
 
 ## Detailed Explanation of Decision Tree
 A decision tree consists of nodes and edges. Nodes represent decision points based on features, while edges represent the outcome of those decisions.
