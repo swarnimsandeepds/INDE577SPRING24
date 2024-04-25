@@ -5,7 +5,7 @@
 As the name implies, unsupervised learning is a machine learning technique in which models are not supervised by a training dataset. Instead, models discover hidden patterns and insights in the given data. It can be compared to the learning process that occurs in the human brain when learning something new.
 
 ## Visual Overview of Unsupervised Learning
-<img src="/Unsupervised%20Machine%20Learning/Unsupervised-learning.png" width="600">
+<img src="/Unsupervised%20Machine%20Learning/Unsupervised-learning.png" width="400">
 
 ## Unpacking Unsupervised Learning
 ### Core Concepts
