@@ -2,11 +2,12 @@
 # Principal Component Analysis (PCA) Project Overview
 
 ## Introduction to Principal Component Analysis
-Principal Component Analysis (PCA) is a statistical technique used for dimensionality reduction. It transforms a set of possibly correlated variables into a set of linearly uncorrelated variables called principal components. This technique is widely used in exploratory data analysis and for making predictive models.
+Principal Component Analysis (PCA) is an unsupervised learning approach used to reduce dimensionality in machine learning. It is a statistical procedure that, using orthogonal transformation, turns correlated feature observations into a set of linearly uncorrelated features. These newly altered traits are known as the Principal Components. It is one of the most used tools for exploratory data analysis and predictive modeling. It is a strategy for identifying strong patterns in a given dataset by decreasing variances.
+In general, PCA seeks a lower-dimensional surface onto which to project high-dimensional data.
 
 ## Visual Overview of PCA
 
-![PCA Example](https://knowledge.dataiku.com/latest/_images/stats-PCA-example.png)
+<img src="/Unsupervised%20Machine%20Learning/images/PCA." width="600">
 
 ## Detailed Explanation of PCA
 PCA involves the following steps:
