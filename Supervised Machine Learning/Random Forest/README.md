@@ -2,10 +2,11 @@
 # Random Forest Project Overview
 
 ## Introduction to Random Forest
-Random Forest is a versatile machine learning method capable of performing both classification and regression tasks. It is an ensemble learning method that operates by constructing a multitude of decision trees at training time. For classification tasks, the output is the mode of the classes predicted by individual trees.
+"Random Forest is a classifier that contains a number of decision trees on various subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset." Instead of relying on one decision tree, the random forest takes the prediction from each tree and based on the majority votes of predictions, and it predicts the final output.
+The greater number of trees in the forest leads to higher accuracy and prevents the problem of overfitting.
 
 ## Visual Overview of Random Forest
-![Decision Trees Ensemble](https://serokell.io/files/vz/vz1f8191.Ensemble-of-decision-trees.png)
+<img src="/Supervised%20Machine%20Learning/images/random-forest.png" width="600">
 
 ## Detailed Explanation of Random Forest
 Random Forest builds multiple decision trees and merges them to get a more accurate and stable prediction. The fundamental concept is to combine the predictions from multiple machine learning algorithms to make more accurate predictions than any individual model.
