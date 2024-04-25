@@ -7,7 +7,7 @@ In general, PCA seeks a lower-dimensional surface onto which to project high-dim
 
 ## Visual Overview of PCA
 
-<img src="/Unsupervised%20Machine%20Learning/images/PCA." width="600">
+<img src="/Unsupervised%20Machine%20Learning/images/PCA.png" width="600">
 
 ## Detailed Explanation of PCA
 PCA involves the following steps:
