@@ -5,7 +5,7 @@
 Gradient descent is a fundamental optimization strategy that reduces the cost or loss function of a machine learning model. It is commonly used to train a variety of models, including linear regression, logistic regression, neural networks, and many more. The main principle underlying gradient descent is to iteratively update the model parameters in the direction that minimizes the cost function until it reaches a minimum
 
 ## Visual Overview of Gradient Descent
-![Gradient Descent Animation](https://miro.medium.com/v2/resize:fit:1358/1*47skUygd3tWf3yB9A10QHg.gif)
+<img src="/Supervised%20Machine%20Learning/images/gradient-descent.gif" width="600">
 
 ## Detailed Explanation of Gradient Descent
 Gradient Descent involves:
