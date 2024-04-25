@@ -2,10 +2,12 @@
 # Naive Bayes Classifier Project Overview
 
 ## Introduction to Naive Bayes
-Naive Bayes classifiers are a family of simple probabilistic classifiers based on applying Bayes' theorem with strong (naive) independence assumptions between the features. They are highly scalable and can handle large amounts of data with a large number of features, making them useful for many real-world scenarios.
+The Naïve Bayes algorithm is a supervised learning method that applies Bayes theorem to solve classification problems. It is mostly used in text classification, with a high-dimensional training dataset.
+The Naïve Bayes Classifier is a simple and effective classification technique for generating fast machine learning models with quick predictions. It is a probabilistic classifier, which implies that it makes predictions based on the probability of an object.
+Naïve Bayes algorithms are commonly used for spam filtration, sentiment analysis, and article classification.
 
 ## Visual Representation of Naive Bayes
-![Naive Bayes Classifier](https://miro.medium.com/v2/resize:fit:902/format:webp/0*A48winOith686bMA.gif)
+<img src="/Supervised%20Machine%20Learning/images/naive-bayes.png" width="600">
 
 ## Detailed Explanation of Naive Bayes
 Naive Bayes works on the principle of conditional probability. Given a hypothesis (class) and evidence (features), it calculates the probability of the hypothesis given the evidence.
