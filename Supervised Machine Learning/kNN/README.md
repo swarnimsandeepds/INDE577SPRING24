@@ -2,9 +2,15 @@
 # K-Nearest Neighbors (KNN) Project Overview
 
 ## Introduction to K-Nearest Neighbors
-K-Nearest Neighbors (KNN) is a simple but effective supervised learning technique that may be used for both classification and regression. It is a non-parametric approach, which means it makes no assumptions about the data distribution. Instead, it makes predictions based on the similarity of new data points to previously classified data.
+The K-NN algorithm assumes a resemblance between the new case/data and the existing cases and assigns the new case to the category that is most similar to the extant categories.
+The K-NN algorithm maintains all available data and classifies new data points based on their similarity. This means that when fresh data comes, it may be quickly sorted into a suitable category using the K-NN method.
+K-NN algorithms can be used for both regression and classification, however they are more commonly utilized for classification problems.
+K-NN is a nonparametric algorithm, which means it makes no assumptions about the underlying data.
+It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of classification, it performs an action on the dataset.
+KNN algorithm at the training phase just stores the dataset and when it gets new data, then it classifies that data into a category that is much similar to the new data.
+
 ## Visual Overview of KNN
-![K-Nearest Neighbors](https://user-images.githubusercontent.com/75358720/161425446-e086dc39-4683-4590-b6cb-9a96466bd589.gif)
+<img src="/Supervised%20Machine%20Learning/images/KNN.gif" width="600">
 
 ## Detailed Explanation of KNN
 The KNN algorithm works as follows:
