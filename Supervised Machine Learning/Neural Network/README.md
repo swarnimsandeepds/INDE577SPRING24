@@ -2,7 +2,7 @@
 # Neural Network Project Overview
 
 ## Introduction to Neural Networks
-Neural Networks are a cornerstone of modern machine learning, inspired by the structure and functions of the human brain. They consist of interconnected nodes or neurons, which process information using a networked approach. Neural networks are particularly effective for complex tasks like image and speech recognition, natural language processing, and more.
+Neural networks are a fundamental component of modern machine learning, inspired by the structure and functions of the human brain. They are made up of interconnected nodes or neurons that process information through a networked way. Neural networks are very useful for complicated tasks such as image and speech recognition, natural language processing, and more.
 
 ## Visual Representation of Neural Networks
 ![Neural Network Structure](https://images.squarespace-cdn.com/content/v1/5800c6211b631b49b4d63657/1517072201941-37JOI5UBDVSD7I4IBF0W/fullyconnected_525.gif)
