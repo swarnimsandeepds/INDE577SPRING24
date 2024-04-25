@@ -2,15 +2,15 @@
 # Unsupervised Learning Project Overview
 
 ## Introduction to Unsupervised Learning
-Unsupervised Learning is a type of machine learning where algorithms are used to identify patterns in data sets containing data points that are neither classified nor labeled. The goal is to explore the structure of the data and extract meaningful insights without guidance.
+As the name implies, unsupervised learning is a machine learning technique in which models are not supervised by a training dataset. Instead, models discover hidden patterns and insights in the given data. It can be compared to the learning process that occurs in the human brain when learning something new.
 
 ## Visual Overview of Unsupervised Learning
-![Unsupervised Learning](https://www.livewireindia.com/blog/wp-content/uploads/2019/06/Supervised-ML-1.gif)
+<img src="/Unsupervised%20Machine%20Learning/images/Unsupervised-learning.png" width="600">
 
 ## Unpacking Unsupervised Learning
 ### Core Concepts
-   - Unsupervised learning algorithms detect patterns and relationships in data by finding similarities or differences among the data points.
-   - It includes methods like clustering, dimensionality reduction, and association rule learning.
+   - Unsupervised learning cannot be applied directly to a regression or classification problem since, unlike supervised learning, we just have input data and no output data.
+   - The purpose of unsupervised learning is to identify the underlying structure of a dataset, categorize it based on similarities, and display it in a compressed fashion.
 ### Applications
    - Unsupervised learning is used in various applications like customer segmentation, anomaly detection, and recommendation systems.
 
