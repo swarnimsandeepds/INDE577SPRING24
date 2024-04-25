@@ -9,17 +9,17 @@ The other dataset used is a heart_failure_clinical_records dataset that predicts
 
 Supervised Learning folder contains the implementaion of below models in the corresponding directories.
 - [**Perceptron**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Perceptron)
-- [**Gradient Descent**](https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Gradient%20Descent)
-- [**Linear Regression**](https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Linear%20Regression)
+- [**Gradient Descent**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Gradient%20Descent)
+- [**Linear Regression**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Linear%20Regression)
 - [**Logistic Regression**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Logistic%20Regression)
-- [**Neural Networks**](https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Neural%20Network)
-- [**K Nearest Neighbors**](https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/kNN)
-- [**Decision Tree**](https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Decision%20Tree)
-- [**Ensemble**](https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Ensemble%20Methods)
+- [**Neural Networks**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Neural%20Network)
+- [**K Nearest Neighbors**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/kNN)
+- [**Decision Tree**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Decision%20Tree)
+- [**Ensemble**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Ensemble%20Methods)
 - [**Random Forest**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Random%20Forest)
 - [**Support Vector Machine**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Support%20Vector%20Machine)
-- [**Naive Bayes**](https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Naive%20Bayes)
+- [**Naive Bayes**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Naive%20Bayes)
 
 Unsupervised Learning folder contains the implementaion of below models in the corresponding directories.
 - [**Principle Component Analysis**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Unsupervised%20Machine%20Learning/PCA)
-- [**K-Means Clustering**](https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Unsupervised%20Machine%20Learning/K%20Means%20Clustering)
+- [**K-Means Clustering**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Unsupervised%20Machine%20Learning/K%20Means%20Clustering)
