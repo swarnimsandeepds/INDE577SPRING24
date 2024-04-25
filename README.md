@@ -23,5 +23,3 @@ Unsupervised Learning folder contains the implementaion of below models in the c
 PCA
 K Means Clustering
 
-Student Contact Information:
-Swarnim Sandeep
