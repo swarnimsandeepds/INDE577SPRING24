@@ -2,13 +2,14 @@
 # Logistic Regression Project Overview
 
 ## Introduction to Logistic Regression
-Logistic Regression is a statistical method for predicting binary outcomes from data. Examples of this include predicting whether an email is spam or not, or if a patient has a disease or not. It estimates the probability that a given input point belongs to a certain class.
+Logistic Regression is a method for predicting a categorical dependent variable from a given collection of independent factors.
+Logistic Regression is quite similar to Linear Regression, except for the way they are employed. Regression problems are solved using linear regression, while classification problems are solved using logistic regression.
 
 ## Visual Overview of Logistic Regression
-![Logistic Regression](https://miro.medium.com/v2/resize:fit:966/1*KoAzQLM1zDi5s9yTR9V6hw.png)
+<img src="/Supervised%20Machine%20Learning/images/logistic-regression.png" width="600">
 
 ## Detailed Explanation of Logistic Regression
-Unlike linear regression which predicts a continuous outcome, logistic regression predicts a binary outcome. The core concept is the logistic function or the sigmoid function that maps any real-valued number into a value between 0 and 1.
+Logistic regression predicts the value of a categorical dependent variable. As a result, the value must be categorical or discrete. It can be Yes or No, 0 or 1, true or false, and so on, but instead of providing exact values such as 0 and 1, it provides probability values between 0 and 1.
 
 ### Key Concepts
 - **Odds Ratio**: Reflects the probability of success over the probability of failure.
