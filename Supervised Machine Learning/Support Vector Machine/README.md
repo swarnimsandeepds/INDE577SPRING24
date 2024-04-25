@@ -2,10 +2,12 @@
 # Support Vector Machine (SVM) Project Overview
 
 ## Introduction to Support Vector Machine
-Support Vector Machine (SVM) is a powerful, supervised machine learning algorithm used for classification and regression tasks. It works by finding a hyperplane that best divides a dataset into classes. SVM is particularly useful in high-dimensional spaces and when there is a clear margin of separation in the data.
+The SVM algorithm's purpose is to find the best line or decision boundary that can divide an n-dimensional space into classes, allowing us to conveniently place fresh data points in the correct category in the future. The optimal choice boundary is known as a hyperplane.
+
+SVM selects the extreme points/vectors that contribute to the creation of the hyperplane. These extreme examples are referred to as support vectors, and the algorithm is known as Support Vector Machine. 
 
 ## Visual Representation of SVM
-![Support Vector Machine](https://miro.medium.com/v2/resize:fit:848/1*VF_oqrRmgVdtAizny5T3-A.gif)
+<img src="/Supervised%20Machine%20Learning/images/svm.png" width="600">
 
 ## Detailed Explanation of SVM
 SVM operates by finding the hyperplane that maximizes the margin between the data points of different classes. The data points that are closest to the hyperplane and influence its position are known as support vectors.
