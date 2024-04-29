@@ -1,10 +1,10 @@
 
-# Ensemble Learning Project Overview
+ Ensemble Learning Project Overview
 
-## Introduction to Ensemble Learning
+ Introduction to Ensemble Learning
 Ensemble learning is an advanced machine learning strategy that leverages multiple models to enhance prediction accuracy and robustness. It operates on the principle that aggregating the predictions from various models typically yields better results than relying on a single model.
 
-## Visual Overview of Ensemble Learning
+ Visual Overview of Ensemble Learning
 <img src="/Supervised%20Machine%20Learning/images/Ensemble-learning.png" width="600">
 
 In-depth Overview of Ensemble Learning
