@@ -8,6 +8,7 @@ A decision tree is a popular supervised learning method that may be applied to b
 <img src="/Supervised%20Machine%20Learning/images/decision-tree.jpg" width="600">
 
 
+
 An Explanation of Decision Trees
 
 A decision tree is a model composed of nodes and connecting edges, where each node represents a decision point based on different features, and edges denote the results of those decisions. The initial node, known as the root node, identifies the primary feature that divides the dataset into distinct groups most effectively. Nodes situated internally within the tree specify attributes, with branches illustrating possible feature outcomes, and the leaf nodes offer the final predictions or results.
