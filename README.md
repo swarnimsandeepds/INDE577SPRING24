@@ -1,5 +1,5 @@
 Purpose: Data Science and Machine Learning
-To perform Supervised & Unsupervised Learning using various machine learning models. 
+#To perform Supervised & Unsupervised Learning using various machine learning models. 
 
 The primary datasets used in this repository will be included in the `dataset` folder can be found [here](https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/DATASET).
 The various algorithms are implemented using the RealEstate Dataset(predicting the price of a house based on features like  X1 transaction date	X2 house age	X3 distance to the nearest MRT station	X4 number of convenience stores	X5 latitude	X6 longitude. 
