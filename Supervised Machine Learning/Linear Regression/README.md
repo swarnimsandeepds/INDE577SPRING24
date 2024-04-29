@@ -1,8 +1,8 @@
 
-# Linear Regression Project Overview
+Linear Regression Project Overview
+Introduction to Linear Regression
 
-## Introduction to Linear Regression
-Linear regression is a fundamental machine learning algorithm that predicts numerical values using input characteristics. It presupposes a linear relationship between the features and the goal variable. The model learns the coefficients that best suit the data and can predict future inputs.
+Linear regression is a basic machine learning technique used to predict numerical outcomes based on input features. It assumes a linear correlation between the independent variables and the target variable.
 
 
 Linear Regression Explanation
