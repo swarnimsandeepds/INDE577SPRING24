@@ -36,4 +36,3 @@ Starting with Logistic Regression
     Tools and Libraries: Implement the model using Python libraries such as Scikit-learn for an efficient setup.
     Testing and Learning: Experiment with real-world datasets to see how well the model performs.
 
-ChatG
