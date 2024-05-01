@@ -18,46 +18,46 @@ In classification, the algorithm predicts categorical labels and assigns data in
 
 CORE PRINCIPLES
 
-Classification: Assigns categorical labels to data inputs.
+1-Classification: Assigns categorical labels to data inputs.
 
-Regression: Estimates a continuous numerical output.
+2-Regression: Estimates a continuous numerical output.
 
-Training Data: Collection of data used for training the algorithm.
+3-Training Data: Collection of data used for training the algorithm.
 
-Test Data: Data used to test the algorithm's predictive performance.
+4-Test Data: Data used to test the algorithm's predictive performance.
 
 
 
 IMPLEMENTING SUPERVISED MACHINE LEARNING
 
-Data Collection: Assemble and label a dataset.
+1-Data Collection: Assemble and label a dataset.
 
-Preprocessing: Clean and organize the data into a usable format.
+2-Preprocessing: Clean and organize the data into a usable format.
 
-Model Selection: Select a model that fits the problem at hand.
+3-Model Selection: Select a model that fits the problem at hand.
 
-Training: Use the training data to educate the model.
+4-Training: Use the training data to educate the model.
 
-Evaluation: Assess the model using the test data to verify its accuracy.
+5-Evaluation: Assess the model using the test data to verify its accuracy.
 
 
 
 METRICS FOR EVALUATING SUPERVISED MACHINE LEARNING
 
-Accuracy: Measures the correctness of classification predictions.
+1-Accuracy: Measures the correctness of classification predictions.
 
-Mean Squared Error (MSE): Evaluates the average of the squares of the errors in regression.
+2-Mean Squared Error (MSE): Evaluates the average of the squares of the errors in regression.
 
-Confusion Matrix: Outlines the performance of a classification model.
+3-Confusion Matrix: Outlines the performance of a classification model.
 
-Precision, Recall, and F1 Score: Crucial for evaluating binary classification tasks.
+4-Precision, Recall, and F1 Score: Crucial for evaluating binary classification tasks.
 
 
 
 STARTING WITH MACHINE LEARNING
 
-Prerequisites: Basic knowledge in Python, statistics, and data analytics.
+1-Prerequisites: Basic knowledge in Python, statistics, and data analytics.
 
-Libraries: Get acquainted with tools like Scikit-learn, TensorFlow, or PyTorch.
+2-Libraries: Get acquainted with tools like Scikit-learn, TensorFlow, or PyTorch.
 
-Experimentation: Test various algorithms on different datasets to discover the most effective strategies.
+3-Experimentation: Test various algorithms on different datasets to discover the most effective strategies.
