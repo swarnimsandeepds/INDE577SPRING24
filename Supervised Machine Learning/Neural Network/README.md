@@ -4,7 +4,7 @@ Introduction to Neural Networks
 Neural networks form a crucial pillar in contemporary machine learning, drawing inspiration from the human brain's architecture and functionality. These networks consist of nodes or neurons linked together, facilitating complex tasks like image and speech recognition, natural language processing, among others.
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faibusiness.com%2Fml%2Fhow-neural-networks-can-think-like-humans-and-why-it-matters&psig=AOvVaw1_CzSN830hzYmoyKIRnoBq&ust=1714621905576000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDPx8fG64UDFQAAAAAdAAAAABAE">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faibusiness.com%2Fml%2Fhow-neural-networks-can-think-like-humans-and-why-it-matters&psig=AOvVaw1_CzSN830hzYmoyKIRnoBq&ust=1714621905576000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDPx8fG64UDFQAAAAAdAAAAABAE" width='600'>
 
 
 Comprehensive Guide to Neural Networks
