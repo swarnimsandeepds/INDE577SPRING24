@@ -5,6 +5,7 @@ Linear Regression
 
 Linear regression is a basic machine learning technique used to predict numerical outcomes based on input features. It assumes a linear correlation between the independent variables and the target variable.
 
+<img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/03/linear-regressions.jpg" width="600">
 
 Linear Regression Explanation
 
