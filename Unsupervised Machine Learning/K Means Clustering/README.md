@@ -2,6 +2,7 @@
 # K-Means Clustering
 
 K-Means Clustering is a widely used unsupervised learning technique in data analytics. This method organizes a dataset into K unique, non-overlapping groups (clusters) by examining their attributes. It assigns each data point to the cluster with the nearest centroid.
+![1_IXGsBrC9FnSHGJVw9lDhQA](https://github.com/swarnimsandeepds/INDE577SPRING24/assets/165357569/d5993119-01af-4550-83b8-10aaf756b19d)
 
 How K-Means Clustering Operates?
 
