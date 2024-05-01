@@ -5,7 +5,7 @@ Supervised machine learning involves training a model on labeled data to learn a
 
 ## Visualization of Supervised Machine Learning
 
-<img src="supervised-learning.gif" width="600"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*fq4smdRhVA2ZL6dxrikbKg.jpeg" width="600"/>
 
 
 
