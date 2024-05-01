@@ -8,7 +8,7 @@ K-NN is a nonparametric algorithm, which means it makes no assumptions about the
 It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of classification, it performs an action on the dataset.
 KNN algorithm at the training phase just stores the dataset and when it gets new data, then it classifies that data into a category that is much similar to the new data.
 
-## Visual Overview of KNN
+## Visualization
 <img src="/Supervised%20Machine%20Learning/images/KNN.gif" width="600">
 
 
