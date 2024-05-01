@@ -19,33 +19,33 @@ This cycle continues until the centroids no longer move significantly, signaling
 
 -----Characteristics of K-Means Clustering
 
-Efficiency: It is known for being fast and low-cost computationally.
+1-Efficiency: It is known for being fast and low-cost computationally.
 
-Simplicity: The algorithm is straightforward to implement and comprehend.
+2-Simplicity: The algorithm is straightforward to implement and comprehend.
 
 
 -----Implementing K-Means Clustering
 
-Data Preparation: Normalize your data and select an appropriate number of clusters (K).
+1-Data Preparation: Normalize your data and select an appropriate number of clusters (K).
 
-Algorithm Application: Implement the K-Means algorithm using tools like Scikit-learn or through a custom approach.
+2-Algorithm Application: Implement the K-Means algorithm using tools like Scikit-learn or through a custom approach.
 
-Analysis of Results: Examine and interpret the results within the context of your dataset.
+3-Analysis of Results: Examine and interpret the results within the context of your dataset.
 
 -----Metrics for Evaluating K-Means:-
 
 Several metrics can assess the effectiveness of K-Means clustering:
 
-Inertia: Indicates the compactness of the clusters.
+1-Inertia: Indicates the compactness of the clusters.
 
-Silhouette Score: Assesses how well an object fits within its cluster relative to other clusters.
+2-Silhouette Score: Assesses how well an object fits within its cluster relative to other clusters.
 
-Davies-Bouldin Index: Desirable lower values suggest better separation between clusters.
+3-Davies-Bouldin Index: Desirable lower values suggest better separation between clusters.
 
 -----Getting Started with K-Means Clustering:-
 
-Prerequisites: Ensure you have essential Python packages installed, including NumPy, Scikit-learn, and Matplotlib.
+1-Prerequisites: Ensure you have essential Python packages installed, including NumPy, Scikit-learn, and Matplotlib.
 
-Executing the Algorithm: Run the clustering script to apply the K-Means algorithm to your data.
+2-Executing the Algorithm: Run the clustering script to apply the K-Means algorithm to your data.
 
-Visualization of Results: Employ graphical representations to display the clusters and their centroids, enhancing your understanding of the distribution.
+3-Visualization of Results: Employ graphical representations to display the clusters and their centroids, enhancing your understanding of the distribution.
