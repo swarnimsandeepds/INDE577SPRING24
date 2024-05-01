@@ -6,8 +6,7 @@ Neural networks form a crucial pillar in contemporary machine learning, drawing 
 
 <img src="https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt790f1b7ac4e04301/6543ff50fcf447040a6b8dc7/News_Image_(47).png?width=850&auto=webp&quality=95&format=jpg&disable=upscale" width="600">
 
-
-Comprehensive Guide to Neural Networks
+Guide to Neural Networks
 
 Neural networks are structured with multiple layers: the input layer, several hidden layers, and an output layer. Each neuron within these layers connects to others in the subsequent layer via weights. Neural networks predict outcomes and refine their accuracy through a method known as backpropagation, which adjusts the weights based on the errors in predictions.
 
