@@ -1,8 +1,7 @@
 
-Linear Regression Project Overview
 
+Linear Regression
 
-Introduction to Linear Regression
 
 Linear regression is a basic machine learning technique used to predict numerical outcomes based on input features. It assumes a linear correlation between the independent variables and the target variable.
 
