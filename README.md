@@ -17,7 +17,6 @@ Supervised Learning folder contains the implementaion of below models in the cor
 - [**K Nearest Neighbors**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/kNN)
 - [**Decision Tree**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Decision%20Tree)
 - [**Ensemble**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Ensemble%20Methods)
-- [**Support Vector Machine**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Support%20Vector%20Machine)
 - [**Naive Bayes**] (https://github.com/swarnimsandeepds/INDE577SPRING24/tree/5bdf24de48046d22584141d6dde660c5485d5d1e/Supervised%20Machine%20Learning/Naive%20Bayes)
 
 Unsupervised Learning folder contains the implementaion of below models in the corresponding directories.
