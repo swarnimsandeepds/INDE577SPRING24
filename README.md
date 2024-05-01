@@ -1,5 +1,4 @@
-[data-concept-illustration-idea-collecting-analysing-using.zip](https://github.com/swarnimsandeepds/INDE577SPRING24/files/15172712/data-concept-illustration-idea-collecting-analysing-using.zip)
-
+![data](https://github.com/swarnimsandeepds/INDE577SPRING24/assets/165357569/c50dace3-7052-41c2-930f-5a4f8b7dc9cd)
 
 Purpose: To perform Supervised & Unsupervised Learning using various machine learning models. 
 
