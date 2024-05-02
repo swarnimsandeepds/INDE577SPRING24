@@ -1,7 +1,7 @@
 
-# Decision Tree Project Overview
+# Decision Tree
 
-## Introduction to Decision Tree
+## Introduction 
 A decision tree is a popular supervised learning method that may be applied to both classification and regression applications. It's a versatile and easy-to-use approach that works by recursively partitioning the dataset into subsets based on the most significant attribute, resulting in a decision tree.
 
 ## Visual Overview of Decision Tree
